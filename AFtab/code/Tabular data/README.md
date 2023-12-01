@@ -3,8 +3,7 @@ This repository is the  PyTorch implementation of DAST for tabular data.
 # DAST: Domain-Agnostic Self-Training for Semi-Supervised Learning
 
 
-![Image text][Framework](img/Framework.png)
-
+![Framework](img/Framework.png)
 
 
 ## Requirements
