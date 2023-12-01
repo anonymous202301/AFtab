@@ -1,9 +1,9 @@
-![Framework](https://github.com/anonymous202301/AFtab/assets/123537384/5649ebb3-243c-420d-a1a3-545707bdf42d)![Framework](https://github.com/anonymous202301/AFtab/assets/123537384/fc598707-83ba-439a-a4d9-e28722df4da0)This repository is the  PyTorch implementation of DAST for tabular data.
+This repository is the  PyTorch implementation of DAST for tabular data.
 
 # DAST: Domain-Agnostic Self-Training for Semi-Supervised Learning
 
 
-![Image text][Framework](img/Framework.jpg)
+![Image text][Framework](img/Framework.png)
 
 
 
